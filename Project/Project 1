@@ -1,0 +1,7 @@
+# Ask for user input and store in variables 
+player_name = input("Enter your name: ")
+player_age = input("Enter your age: ")
+
+#print the values to the console
+print(f"Player name: {player_name}")
+print(f"Player age: {player_age}")

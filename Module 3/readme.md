@@ -1,17 +1,17 @@
 # Variables and interactive programs 
 
-#Exercise 1.py
+## Exercise 1.py
 name = input("Enter your name: ")
 print(f"Hello, {name}!")
 
-#xercise 2.py
+## Exercise 2.py
 import math
 
 radius = float(input("Enter radius: "))
 area = math.pi * radius**2 
 print (f"The area of the circle is {area}")
 
-#Exercise 3.py
+## Exercise 3.py
 length = float (input("Enter the length: "))
 width = float (input ("Enter width: "))
 
@@ -21,7 +21,7 @@ area = length * width
 print (f"Permeter: {perimeter}")
 print (f"Area: {area}")
 
-#Exercise 4.py
+## Exercise 4.py
 num1 = int (input("Enter first number:"))
 num2 = int (input("Enter second number:"))
 num3 = int (input("Enter third number:"))
@@ -34,7 +34,7 @@ print (f"Sum: {num_sum}")
 print (f"Product: {product}")
 print (f"Average: {average}")
 
-#Exercise 5.py
+## Exercise 5.py
 num1 = int (input("Enter first number:"))
 num2 = int (input("Enter second number:"))
 num3 = int (input("Enter third number:"))
@@ -47,7 +47,7 @@ print (f"Sum: {num_sum}")
 print (f"Product: {product}")
 print (f"Average: {average}")
 
-#Exercise 6.py
+## Exercise 6.py
 import random 
 
 # 3_digit code (numbers between 0 and 9)

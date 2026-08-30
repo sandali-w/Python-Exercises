@@ -1,6 +1,6 @@
 # Conditional structures
 
-#Exercise 1.py
+## Exercise 1.py
 length = float(input("Enter the length of the zander in centimeters: "))
 size_limit = 42
 
@@ -15,7 +15,7 @@ if length < size_limit:
 else:
     print("The zander meets the size limit.")
 
-    #Exercise 2.py
+    ## Exercise 2.py 
     cabin_class = input("Enter the cabin class (LUX, A, B, C): ").strip().upper()
 
 if cabin_class == "LUX":
@@ -29,7 +29,7 @@ elif cabin_class == "C":
 else:
     print("Invalid cabin class.")
 
-    #Exercise 3.py
+    ## Exercise 3.py
     hemoglobin = float(input("Enter hemoglobin value (g/l): "))
 
 if gender == "female":
@@ -49,7 +49,7 @@ elif gender == "male":
 else:
     print("Invalid gender entered.")
 
-    #Exercise 4.py
+    ## Exercise 4.py
     year = int(input("Enter a year: "))
 
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):

@@ -1,13 +1,11 @@
-talents = float (input("Enter talents:\n"))
-pounds = float (input("Enter pounds:\n"))
-lots = float (input("Enter lots:\n"))
+num1 = int (input("Enter first number:"))
+num2 = int (input("Enter second number:"))
+num3 = int (input("Enter third number:"))
 
-# Conversations 
-# 1 talent = 20 pounds; 1 pound =32 lots; 1 lot = 13.3 grams
-total_lots = (talents * 20 * 32) + (pounds * 32) + lots
-total_grams = total_lots * 13.3
-kilograms = int(total_grams // 1000)
-grams = total_grams % 1000
+num_sum = num1 + num2 + num3
+product = num1 * num2 * num3 
+average = num_sum / 3
 
-print(f"\nThe weight in modern units:")
-print(f"{kilograms} kilograms and {grams:.2f} grams")
+print (f"Sum: {num_sum}")
+print (f"Product: {product}")
+print (f"Average: {average}")

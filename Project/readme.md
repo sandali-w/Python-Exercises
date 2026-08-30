@@ -1,3 +1,3 @@
-# My Awesome Game 
+# My awesome game 
 
-Warnakulasuriya Sandali Crishenshiya Fernando 
+Warnakulasuriya Sandali Crishenshiya Fernando

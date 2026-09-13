@@ -1,0 +1,12 @@
+# Tuple storing four seasons (winter, spring, summer, autumn)
+seasons = ("winter", "spring", "summer", "autumn")
+
+month = int(input("Enter month number (1-12): "))
+
+# Dec (12), Jan (1), Feb (2) -> winter (index 0)
+# Mar (3), Apr (4), May (5) -> spring (index 1)
+# Jun (6), Jul (7), Aug (8) -> summer (index 2)
+# Sep (9), Oct (10), Nov (11) -> autumn (index 3)
+season_index = (month % 12) // 3
+
+print(f"The season is {seasons[season_index]}.")

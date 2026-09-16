@@ -11,10 +11,11 @@ def main():
         print("You are a minor. Program shutting down.")
         return
 
-    # Greet user
+    # Greet user if age is 12 or older
     print("Welcome to the Game!")
 
     # Main menu loop
+    
     while True:
         print("\n--- MAIN MENU ---")
         print("1. explore - Explore the mysterious forest")
@@ -22,7 +23,7 @@ def main():
         print("3. inventory - View your items")
         print("4. lopeta  - Exit the game")
         
-        command = input("\nEnter a command: ").strip().lower()
+        command = input("\nEnter a command: ").lower()
 
         if command == "lopeta":
             print("Goodbye!")

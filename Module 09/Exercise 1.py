@@ -14,3 +14,4 @@ if __name__ == "__main__":
     print(f"Maximum Speed: {new_car.maximum_speed} km/h")
     print(f"Current Speed: {new_car.current_speed} km/h")
     print(f"Travelled Distance: {new_car.travelled_distance} km")
+    

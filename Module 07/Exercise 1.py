@@ -8,3 +8,4 @@ result = 0
 while result != 6:
     result = roll_dice()
     print(f"Rolled: {result}")
+    

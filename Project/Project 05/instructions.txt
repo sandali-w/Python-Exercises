@@ -1,0 +1,9 @@
+Plaintext
+==================================================
+                HOW TO PLAY
+==================================================
+1. Choose options 1 to 3 to move between rooms.
+2. Choose option 4 to pick up items in the room.
+3. Keep track of your inventory and status.
+4. Option 5 allows you to save and quit the game.
+==================================================

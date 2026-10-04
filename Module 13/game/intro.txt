@@ -1,0 +1,11 @@
+Plaintext
+==================================================
+        WELCOME TO THE ADVENTURE GAME!
+==================================================
+You wake up in a pitch-black room. The air is cold,
+and you can hear distant echoes. Your main goal is
+to explore the mysterious rooms, collect items, and
+find your way out safely!
+
+Good luck, brave explorer!
+==================================================

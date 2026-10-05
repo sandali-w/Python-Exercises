@@ -1,8 +1,9 @@
 class Room:
-    def __init__(self, name: str, item=None):
+    def __init__(self, name, description, number, item=None):
         self.name = name
-        self.item = item  # Can contain 0 or 1 Item
+        self.description = description
+        self.number = number
+        self.item = item
 
     def __str__(self):
-        item_info = f" containing {self.item.name}" if self.item else " with no items"
-        return f"{self.name}{item_info}"
+        return f"{self.name}: {self.description}"

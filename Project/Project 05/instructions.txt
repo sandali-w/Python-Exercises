@@ -1,9 +1,29 @@
-Plaintext
-==================================================
-                HOW TO PLAY
-==================================================
-1. Choose options 1 to 3 to move between rooms.
-2. Choose option 4 to pick up items in the room.
-3. Keep track of your inventory and status.
-4. Option 5 allows you to save and quit the game.
-==================================================
+========== GAME INSTRUCTIONS ==========
+
+Commands:
+
+map          - Show the world map
+explore      - Explore your current room
+move         - Move to the next door
+collect      - Collect an item
+shop         - Buy items at the Ancient Shop
+items        - Show your inventory
+status       - Show player status
+save         - Save your game
+load         - Load your saved game
+instructions - Show these instructions
+lopeta       - Exit the game
+
+Game Goal:
+
+1. Explore Door 1 and collect the Green Key.
+2. Go to Door 2 and collect the Silver Key.
+3. Go to Door 3 and collect the Blue Key.
+4. Go to Door 4 and buy the Gold Key.
+5. Buy the Crystal of Light.
+6. Go to Door 5.
+7. Open the Sacred Vault.
+8. Find the Lost Artifact.
+9. FINAL WIN!
+
+========================================

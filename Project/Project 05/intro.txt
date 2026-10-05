@@ -1,11 +1,11 @@
-Plaintext
-==================================================
-        WELCOME TO THE ADVENTURE GAME!
-==================================================
-You wake up in a pitch-black room. The air is cold,
-and you can hear distant echoes. Your main goal is
-to explore the mysterious rooms, collect items, and
-find your way out safely!
+Welcome to The Lost Artifact!
 
-Good luck, brave explorer!
-==================================================
+You are a brave adventurer searching for a mysterious lost artifact.
+
+Explore the five doors, collect keys, earn coins,
+and find the Crystal of Light.
+
+Your final destination is the Sacred Vault.
+
+Can you find the Lost Artifact?
+Good luck, adventurer!

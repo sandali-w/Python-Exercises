@@ -4,4 +4,4 @@ class Item:
         self.weight = weight
 
     def __str__(self):
-        return f"{self.name} (Weight: {self.weight} kg)"
+        return f"{self.name} (Weight: {self.weight})"

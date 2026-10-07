@@ -1,29 +1,22 @@
-========== GAME INSTRUCTIONS ==========
+========== HOW TO PLAY ==========
 
-Commands:
+COMMANDS:
+map         - Show world map (need Fire Essence first)
+explore     - Explore current door challenge
+collect     - Collect item from room
+move        - Move to next door (type door number 1-6)
+shop        - Trade items (only at Door 4 Earth Village)
+items       - Show your items
+status      - Show coins and status
+save        - Save game
+load        - Load game
+instructions- Show this help
+lopeta      - Quit game
 
-map          - Show the world map
-explore      - Explore your current room
-move         - Move to the next door
-collect      - Collect an item
-shop         - Buy items at the Ancient Shop
-items        - Show your inventory
-status       - Show player status
-save         - Save your game
-load         - Load your saved game
-instructions - Show these instructions
-lopeta       - Exit the game
-
-Game Goal:
-
-1. Explore Door 1 and collect the Green Key.
-2. Go to Door 2 and collect the Silver Key.
-3. Go to Door 3 and collect the Blue Key.
-4. Go to Door 4 and buy the Gold Key.
-5. Buy the Crystal of Light.
-6. Go to Door 5.
-7. Open the Sacred Vault.
-8. Find the Lost Artifact.
-9. FINAL WIN!
-
-========================================
+HOW TO WIN:
+Door 1 FIRE: Type 'run' fast in 3 seconds to get Fire Essence + Map
+Door 2 WATER: Answer riddle (needle) to get Water Pearl + Torch
+Door 3 WIND: Choose right path to get Wind Feather
+Door 4 EARTH: Trade Torch + 10 coins for Earth Stone, then 15 coins for Light Crystal
+Door 5 LIGHT: Guard checks if you have 4 elements + 10 coins
+Door 6 DARKNESS: Answer 3 boss questions to win Darkness Crown!
